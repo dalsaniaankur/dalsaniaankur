@@ -10,7 +10,7 @@
 - :thinking: this is [MY RESUME](https://drive.google.com/).
 - :nerd_face: Always `learning new things`
 - :boom: You can visit [MY WEBSITE](https://dalsaniaankur.blogspot.com/).
-<br>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
