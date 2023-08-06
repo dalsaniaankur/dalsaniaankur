@@ -4,9 +4,10 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a `Senior Mobile Developer` at [ZumraFood](https://www.zumrafood.com/en)
+- :school: I am a `Senior Web Developer`
 - :technologist: I love coding with `PHP`-`Laravel`-`React`-`Vue`-`Angular`
 - :student: I’m currently learning: `Python` and `Python libraries`.
 - :thinking: this is [MY RESUME](https://drive.google.com/).
 - :nerd_face: Always `learning new things`
+
 <br>
