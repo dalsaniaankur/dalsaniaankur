@@ -7,7 +7,7 @@
 - :school: I am a `Senior Web Developer`
 - :technologist: I love coding with `PHP`-`Laravel`-`React`-`Vue`-`Angular`-`Node`
 - :student: I’m currently learning: `Python` and `Python libraries`.
-- :thinking: this is [MY RESUME](https://drive.google.com/).
+- :thinking: this is [MY RESUME](https://drive.google.com/file/d/1sNac8s2k1bGybEQnioKZQXYLITGgBx2l/view).
 - :nerd_face: Always `learning new things`
 - :boom: You can visit [MY WEBSITE](https://dalsaniaankur.blogspot.com/).
 - Book a meeting with me [BOOK NOW](https://calendly.com/dalsaniaankur/30min)
