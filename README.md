@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ankur Dalsaniya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Ankurkumar Dalsaniya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1214F7&center=true&vCenter=true&width=500&lines=Web+Developer;Always+learning+new+things"></a>
 </p>
@@ -7,7 +7,7 @@
 
 👋 Experienced PHP and Laravel Developer | API Specialist | Database Expert | JavaScript Framework Developer | Seasoned Developer and Leader | Client & Project Manager | Transforming Ideas into Digital Reality | Passionate Python Learner 🐍
 
-Greetings! I'm a dedicated professional with over 6 years of hands-on experience in the dynamic realm of web development. My journey has been defined by shaping innovative concepts into powerful digital solutions, driven by my expertise in PHP, Laravel, API integration, Database architecture, and cutting-edge JavaScript frameworks.
+Greetings! I'm a dedicated professional with over 6+ years of hands-on experience in the dynamic realm of web development. My journey has been defined by shaping innovative concepts into powerful digital solutions, driven by my expertise in PHP, Laravel, API integration, Database architecture, and cutting-edge JavaScript frameworks.
 
 Throughout my career, I've thrived not only as a proficient developer but also as a skilled team leader. Guiding and collaborating with talented teams, I've embraced challenges to deliver projects that exceed expectations. My adeptness in project management and client interactions has allowed me to foster strong partnerships, understand diverse requirements and turning visions into reality.
 
