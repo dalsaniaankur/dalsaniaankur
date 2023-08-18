@@ -5,7 +5,7 @@
 
 ## :sassy_man:  About me
 
-👋 Experienced PHP and Laravel Developer | API Specialist | Database Expert | JavaScript Framework Developer | Seasoned Developer and Leader | Client & Project Manager | Transforming Ideas into Digital Reality | Passionate Python Learner 🐍
+👋 Certified and Experienced PHP and Laravel Developer | API Specialist | Database Expert | JavaScript Framework Developer | Seasoned Developer and Leader | Client & Project Manager | Transforming Ideas into Digital Reality | Passionate Python Learner 🐍
 
 Greetings! I'm a dedicated professional with over 6+ years of hands-on experience in the dynamic realm of web development. My journey has been defined by shaping innovative concepts into powerful digital solutions, driven by my expertise in PHP, Laravel, API integration, Database architecture, and cutting-edge JavaScript frameworks.
 
