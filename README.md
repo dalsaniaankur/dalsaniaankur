@@ -17,7 +17,7 @@ What sets me apart is my unwavering commitment to staying ahead of technological
 
 Let's connect and explore the possibilities of collaboration. Whether you're seeking a technical virtuoso, an inspiring leader, or an evolving Python enthusiast, I'm here to bring value to your projects and teams. Together, let's build the future through innovation and technology. 🚀
 
-- :technologist: I love coding with `PHP`-`Laravel`-`React`-`Vue`-`Angular`-`Node`
+- :technologist: I love coding with `PHP`-`Laravel`-`Next`-`React`-`Vue`-`Angular`-`Node`
 - :student: I’m currently learning: `Python` and `Python libraries`.
 - :thinking: this is [MY RESUME](https://drive.google.com/file/d/1sNac8s2k1bGybEQnioKZQXYLITGgBx2l/view).
 - :nerd_face: Always `learning new things`
