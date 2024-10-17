@@ -5,21 +5,11 @@
 
 ## :sassy_man:  About me
 
-👋 Certified and Experienced PHP and Laravel Developer | API Specialist | Database Expert | JavaScript Framework Developer | Seasoned Developer and Leader | Client & Project Manager | Transforming Ideas into Digital Reality | Passionate Python Learner 🐍
+👋 Certified and Experienced Full Stack Developer
 
-Greetings! I'm a dedicated professional with over 6+ years of hands-on experience in the dynamic realm of web development. My journey has been defined by shaping innovative concepts into powerful digital solutions, driven by my expertise in PHP, Laravel, API integration, Database architecture, and cutting-edge JavaScript frameworks.
+Let's connect and explore the possibilities of collaboration. Whether you're seeking a technical virtuoso or an inspiring leader, I'm here to bring value to your projects and teams. Together, let's build the future through innovation and technology. 🚀
 
-Throughout my career, I've thrived not only as a proficient developer but also as a skilled team leader. Guiding and collaborating with talented teams, I've embraced challenges to deliver projects that exceed expectations. My adeptness in project management and client interactions has allowed me to foster strong partnerships, understand diverse requirements and turning visions into reality.
-
-In my constant pursuit of growth, I'm excited to share my latest endeavour - delving into the realm of Python and its versatile libraries. As I embark on this new learning journey, I'm eager to leverage my existing skillset to explore innovative solutions and expand my horizons even further.
-
-What sets me apart is my unwavering commitment to staying ahead of technological trends, ensuring the solutions I create today remain relevant tomorrow. My passion for clean, efficient, and maintainable code, combined with my leadership skills, has consistently driven success.
-
-Let's connect and explore the possibilities of collaboration. Whether you're seeking a technical virtuoso, an inspiring leader, or an evolving Python enthusiast, I'm here to bring value to your projects and teams. Together, let's build the future through innovation and technology. 🚀
-
-- :technologist: I love coding with `PHP`-`Laravel`-`Next`-`React`-`Vue`-`Angular`-`Node`
-- :student: I’m currently learning: `Python` and `Python libraries`.
-- :thinking: this is [MY RESUME](https://drive.google.com/file/d/1sNac8s2k1bGybEQnioKZQXYLITGgBx2l/view).
+- :technologist: I love coding with `Node`-`React`-`NextJs`-`NestJs`-`PHP`-`Laravel`
 - :nerd_face: Always `learning new things`
 - :boom: You can visit [MY WEBSITE](https://dalsaniaankur.blogspot.com/).
 - Book a meeting with me [BOOK NOW](https://calendly.com/dalsaniaankur/30min)
