@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Ankurkumar Dalsaniya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1214F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1214F7&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;Always+learning+new+things"></a>
 </p>
 
 ## :sassy_man:  About me
@@ -9,7 +9,8 @@
 
 Let's connect and explore the possibilities of collaboration. Whether you're seeking a technical virtuoso or an inspiring leader, I'm here to bring value to your projects and teams. Together, let's build the future through innovation and technology. 🚀
 
-- :technologist: I love coding with `Node`-`React`-`NextJs`-`NestJs`-`Python`-`FastAPI`-`PHP`-`Laravel`-`Golang`
+- :technologist: I love coding with `Node`-`React`-`NextJs`-`NestJs`-`Java Script`-`Type Script`-`Python`-`FastAPI`-`PHP`-`Laravel`-`Golang`
+- :technologist: DevOps: `AWS`-`Docker`-`Kuberneties`
 - :nerd_face: Always `learning new things`
 - :boom: You can visit [MY WEBSITE](https://dalsaniaankur.blogspot.com/).
 - Book a meeting with me [BOOK NOW](https://calendly.com/dalsaniaankur/30min)
