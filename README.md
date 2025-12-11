@@ -5,11 +5,11 @@
 
 ## :sassy_man:  About me
 
-👋 Certified and Experienced Full Stack Developer
+👋 Certified and Experienced Senior Software Engineer
 
 Let's connect and explore the possibilities of collaboration. Whether you're seeking a technical virtuoso or an inspiring leader, I'm here to bring value to your projects and teams. Together, let's build the future through innovation and technology. 🚀
 
-- :technologist: I love coding with `Node`-`React`-`NextJs`-`NestJs`-`PHP`-`Laravel`
+- :technologist: I love coding with `Node`-`React`-`NextJs`-`NestJs`-`Python`-`FastAPI`-`PHP`-`Laravel`-`Golang`
 - :nerd_face: Always `learning new things`
 - :boom: You can visit [MY WEBSITE](https://dalsaniaankur.blogspot.com/).
 - Book a meeting with me [BOOK NOW](https://calendly.com/dalsaniaankur/30min)
