@@ -30,22 +30,13 @@ I like working on **complex problems**, collaborating with thoughtful teams, and
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**
-- JavaScript, TypeScript, Python, Go, PHP  
-- Node.js, React, Next.js, NestJS, FastAPI, Laravel  
+- JavaScript, TypeScript, Python, Go, PHP, Java  
+- Node.js, React, Next.js, NestJS, FastAPI, Laravel, Spring Boot 
 - AI / LLM, LangChain (hands-on experience)
 
 **DevOps & Cloud**
-- AWS, Docker, Kubernetes, Terraform  
+- AWS, Docker, Kubernetes, Terraform, Kafka, RabbitMQ  
 - Basic experience with Azure & GCP
-
----
-
-## 🌱 Currently Learning
-
-- Java & Spring Boot
-- Event-driven systems
-- Apache Kafka
-- RabbitMQ
 
 ---
 
