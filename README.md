@@ -9,9 +9,9 @@
 
 Let's connect and explore the possibilities of collaboration. Whether you're seeking a technical virtuoso or an inspiring leader, I'm here to bring value to your projects and teams. Together, let's build the future through innovation and technology. 🚀
 
-- :technologist: I love coding with `Node`-`React`-`NextJs`-`NestJs`-`Java Script`-`Type Script`-`Python`-`FastAPI`-`PHP`-`Laravel`-`Golang`
-- :technologist: DevOps: `AWS`-`Docker`-`Kuberneties`
-- :nerd_face: Always `learning new things`
+- :technologist: I love coding with `Node`-`React`-`NextJs`-`NestJs`-`JavaScript`-`TypeScript`-`Python`-`FastAPI`-`PHP`-`Laravel`-`Golang`-`AI`-`LLM`-`LangChain`
+- :technologist: DevOps: `AWS`-`Docker`-`Kuberneties`-`(Basic: Azure, GCP)`
+- :nerd_face: Always `learning new things.`
 - :boom: You can visit [MY WEBSITE](https://dalsaniaankur.blogspot.com/).
 - Book a meeting with me [BOOK NOW](https://calendly.com/dalsaniaankur/30min)
 
