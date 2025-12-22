@@ -3,14 +3,15 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1214F7&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Backend+%26+System+Design+Focused;Microservices+%7C+Scalable+Systems;Always+Learning+and+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1214F7&center=true&vCenter=true&width=600&lines=Certified+Senior+Software+Engineer;Backend+%26+System+Design+Focused;Microservices+%7C+Scalable+Systems;Always+Learning+and+Building" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Senior Software Engineer** with strong experience in **system design, backend development, and microservices architecture**.  
+I’m a **Certified Senior Software Engineer** with strong experience in **system design, backend development, and microservices architecture**.  
+
 I enjoy designing **scalable, reliable, and maintainable systems**, and I care deeply about **clean architecture and good engineering practices**.
 
 I like working on **complex problems**, collaborating with thoughtful teams, and building software that makes a real impact 🚀
@@ -29,10 +30,13 @@ I like working on **complex problems**, collaborating with thoughtful teams, and
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**
+**Languages & Backend Frameworks**
 - JavaScript, TypeScript, Python, Go, PHP, Java  
-- Node.js, React, Next.js, NestJS, FastAPI, Laravel, Spring Boot 
+- Node.js, NestJS, FastAPI, Laravel, Spring Boot 
 - AI / LLM, LangChain (hands-on experience)
+
+**Frontend**
+- React, Next.js, Angular 
 
 **DevOps & Cloud**
 - AWS, Docker, Kubernetes, Terraform, Kafka, RabbitMQ  
